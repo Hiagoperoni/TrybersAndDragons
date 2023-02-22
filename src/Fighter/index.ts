@@ -1,5 +1,5 @@
-import Fighter from './Fighter';
+import Figther from './Fighter';
 import SimpleFighter from './SimpleFighter';
 
-export default Fighter;
+export default Figther;
 export { SimpleFighter };
